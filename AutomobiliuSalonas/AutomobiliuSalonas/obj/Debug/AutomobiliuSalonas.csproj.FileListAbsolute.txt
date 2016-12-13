@@ -1,0 +1,13 @@
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\AutomobiliuSalonas.exe.config
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\AutomobiliuSalonas.exe
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\AutomobiliuSalonas.pdb
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\EntityFramework.dll
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\EntityFramework.xml
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\obj\Debug\AutomobiliuSalonas.csprojResolveAssemblyReference.cache
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\obj\Debug\AutomobiliuSalonas.Form1.resources
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\obj\Debug\AutomobiliuSalonas.Properties.Resources.resources
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\obj\Debug\AutomobiliuSalonas.csproj.GenerateResource.Cache
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\obj\Debug\AutomobiliuSalonas.exe
+c:\users\viktorija\documents\visual studio 2015\Projects\AutomobiliuSalonas\AutomobiliuSalonas\obj\Debug\AutomobiliuSalonas.pdb
